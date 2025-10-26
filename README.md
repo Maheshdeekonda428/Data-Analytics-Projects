@@ -70,6 +70,3 @@ Learning grows better when shared — let’s collaborate and learn together! �
 I hope you enjoy exploring my data analytics projects as much as I enjoyed building them.
 Stay tuned for more **Excel dashboards, Power BI reports, SQL case studies, and Python-based analytics projects** as I continue growing as a **Data Analyst!** 📊✨
 
----
-
-Would you like me to make a **visually enhanced version** with emojis and section dividers (for better GitHub appearance), or keep it **minimalist and professional** for hiring managers/recruiters?
