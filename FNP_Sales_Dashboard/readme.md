@@ -1,4 +1,4 @@
-                                Ferns N Petals (FNP) Sales Analysis Dashboard
+                                              Ferns N Petals (FNP) Sales Analysis Dashboard
 
 The FNP Sales Analysis Dashboard provides a comprehensive overview of sales performance, customer behavior, and product insights for the year 2023. Using Excel PivotTables and interactive visualizations, this dashboard uncovers actionable insights to help optimize marketing strategies, enhance customer satisfaction, and boost overall revenue.
 
